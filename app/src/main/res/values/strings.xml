@@ -1,0 +1,59 @@
+<resources>
+    <!-- App Info -->
+    <string name="app_name">Home App</string>
+
+    <!-- Buttons -->
+    <string name="start_button_str">Начать</string>
+    <string name="submit_button_str">Отправить запрос</string>
+    <string name="next_button_str">Далее</string>
+    <string name="done_button_str">Готово</string>
+
+    <!-- Requests -->
+    <string name="create_request_str">Создать заявку</string>
+    <string name="select_request_str">Выберите тип заявки:</string>
+    <string name="request_comment_str">Опишите вашу ситуацию:</string>
+
+    <!-- Appointments -->
+    <string name="create_appointment_str">Создать встречу</string>
+    <string name="select_appointment_str">Выберите тип встречи:</string>
+
+    <!-- Photos -->
+    <string name="attach_photos_toast_str">Вы можете выбрать до 10 фотографий</string>
+    <string name="photo_selection_str">Выберите фото для разъяснения ситуации:</string>
+
+    <!-- User Data -->
+    <string name="enter_user_data_str">Введите свои данные:</string>
+    <string name="surname_hint_str">Фамилия</string>
+    <string name="name_hint_str">Имя</string>
+    <string name="patronymic_hint_str">Отчество (при наличии)</string>
+    <string name="adress_str">Ваш адрес</string>
+
+    <!-- Errors -->
+    <string name="application_malfunction_str">Что-то пошло не так, уже разбираемся…</string>
+
+    <!-- Comments -->
+    <string name="comment_hint_str">Добавьте свой комментарий</string>
+    <string name="select_appointment_date_str">Выберите удобную для Вас дату:</string>
+    <string name="select_appointment_time_str">Выберите более удобную часть дня:</string>
+    <string name="morning_str">Утро</string>
+    <string name="daytime_str">Обед</string>
+    <string name="evening_str">Вечер</string>
+    <!-- Specialist -->
+    <string name="specialist_name_hint_str">Введите специалиста</string>
+
+    <!-- Menu -->
+    <string name="menu_str">В меню</string>
+
+    <!-- Time Slots -->
+    <string name="select_available_time_slot_str">Выберите временной промежуток</string>
+    <string name="selected_appointment_date_str">Выбранная дата: %1$s</string>
+    <string name="selected_appointment_time_slot_str">Выбранный промежуток: %1$s</string>
+
+    <!-- Results -->
+    <string name="appointment_accepted_str">Встреча назначена и будет обработана в ближайшее время.</string>
+    <string name="request_accepted_str">Ваша заявка принята и будет обработана в ближайшее время. Спасибо!</string>
+    
+    <string name="required_field_str">Обязательное поле</string>
+
+    <string name="select_date_and_time_slot_str">Выберите дату и временной промежуток</string>
+</resources>

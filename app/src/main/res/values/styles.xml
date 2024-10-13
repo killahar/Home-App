@@ -1,0 +1,15 @@
+<resources>
+    <style name="ShapeAppearanceOverlay.App.CornerRadius5dp" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">5dp</item>
+    </style>
+
+    <style name="CustomDatePickerDialog" parent="Theme.MaterialComponents.Dialog">
+        <item name="android:windowBackground">@color/color_edittext_default</item>
+        <item name="android:textColorPrimary">@color/color_text_dark</item>
+        <item name="android:textColorSecondary">@color/color_text_dark</item>
+        <item name="android:buttonCornerRadius">10dp</item>
+        <item name="android:buttonBarButtonStyle">@color/color_disabled_text</item>
+        <item name="android:popupBackground">@color/color_disabled_text</item>
+    </style>
+</resources>
